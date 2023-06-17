@@ -1,8 +1,7 @@
 <p align="left"> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IwadareRyu&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IwadareRyu&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-</p>
+<!--</p>
 **IwadareRyu/IwadareRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
